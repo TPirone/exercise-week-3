@@ -1,0 +1,15 @@
+Bipul Chris Martin Taylor
+
+Positive: user recieves confirmation when all fields are satisfied (account created)
+Negative: password cannot be commonly used passwords (must be a unique password)
+Negative: Gender must be selected (give options)
+Negative: Gender has appropriate options (Nake, Female, Non-Binary, Do not wish to Identify)
+Negative: password must contain less than 20 characters (must contain less than 20 characters)
+Negative: user must re-enter password for validation (please re-enter password)
+Negative: ensure TAB functionality is working properly (user should be able to move to next field with each TAB press)
+Negative: ensure fields are marked with (*) if required field
+Negative: Username/email field shouldn't be case-sensitive
+Negative: ensure user doesnt enter a username that already exists
+Negative: ensure password and confirm password are the same
+Negative: ensure there is a submit button at the end of registration
+Negative: Ensure email is unique
